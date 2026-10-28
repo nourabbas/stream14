@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Full HD 1"
+http://ugeen.live:8080/kaicer_VIP6chgb0/fmwvag/3221
 #EXTINF:-1 tvg-id="" tvg-name="QA - AL KASS 5 4K" tvg-logo="https://go4.pw/ARABE/ALKASS.png" group-title="AR | QATAR",QA - AL KASS 5 4K
 http://wsline.cc:80/PSXGW4J/C4PZ4U1/1347404
 #EXTINF:-1 tvg-id="alkassone.qa" tvg-name="QA - AL KASS 1 HD" tvg-logo="https://go4.pw/ARABE/ALKASS.png" group-title="AR | QATAR",QA - AL KASS 1 HD
