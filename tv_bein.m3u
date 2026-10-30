@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="QR - AL KASS 6 4K" tvg-logo="https://go4.pw/ARABE/ALKASS.png" group-title="AR | QATAR",QR - AL KASS 6 4K
+http://wsline.cc:80/EYSZCEB/5KJ32V8/1478468
+#EXTINF:-1 tvg-id="" tvg-name="QR - AL KASS 6 HD" tvg-logo="https://go4.pw/ARABE/ALKASS.png" group-title="AR | QATAR",QR - AL KASS 6 HD
+http://wsline.cc:80/EYSZCEB/5KJ32V8/1478471
 #EXTINF:-1,•●★★--- beIN Sport Full HD ---★★●•
 http://ugeen.live:8080/kaicer_VIP6chgb0/fmwvag/3220
 #EXTINF:-1,beIN SPORTS Full HD 1
